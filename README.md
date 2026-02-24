@@ -2,7 +2,7 @@
 这是一个用于自动签到MT论坛的脚本，配合 GitHub Actions 实现自动定时执行。  
 详细教程可以去哔哩哔哩搜索
 
-[6](https://nzklp.shangbangzhuan6.top/?code=12097404)
+[学生薅羊毛神器](https://nzklp.shangbangzhuan6.top/?code=12097404)
 
 ###### **最后更新日期：2026年02月25日 07点37分**
 
